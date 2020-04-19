@@ -10,8 +10,8 @@ body {
 .container {
   background-color: #357376;
   width: 450px;
-  height: 450px;
   position: absolute;
+  padding-bottom: 20px;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
@@ -84,4 +84,8 @@ button {
 a {
   color: #e5dfdf;
   text-decoration: none;
+}
+
+.hidden {
+  display: none;
 }
