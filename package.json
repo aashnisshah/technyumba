@@ -1,0 +1,23 @@
+{
+  "name": "technyumba",
+  "version": "1.0.0",
+  "description": "Tech Nyumba Project",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aashnisshah/technyumba.git"
+  },
+  "author": "Aashni Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aashnisshah/technyumba/issues"
+  },
+  "homepage": "https://github.com/aashnisshah/technyumba#readme"
+}
