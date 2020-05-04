@@ -4,7 +4,8 @@
   "description": "Tech Nyumba Project",
   "main": "index.js",
   "dependencies": {
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {},
   "scripts": {
