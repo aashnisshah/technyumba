@@ -8,6 +8,7 @@
     "url": "https://github.com/aashnisshah/technyumba"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "gatsby": "^2.21.21",
     "gatsby-image": "^2.4.3",
     "gatsby-plugin-feed": "^2.5.1",
