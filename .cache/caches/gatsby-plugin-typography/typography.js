@@ -1,0 +1,1 @@
+module.exports = require("/Users/aashnishah/dev/technyumba/src/utils/typography")

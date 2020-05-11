@@ -1,0 +1,50 @@
+.content {
+  padding: 10px;
+  margin: 10px;
+}
+
+.form {
+  width: 100%;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+}
+
+label,
+input {
+  display: block;
+  width: 100%;
+  border: none;
+  border-bottom: 1px #007acc solid;
+}
+
+label {
+  margin-top: 0.5rem;
+}
+
+::placeholder {
+  color: #007acc;
+}
+
+input {
+  font-size: 1rem;
+  padding: 0.8rem 0em;
+}
+
+button {
+  background-color: #007acc;
+  display: block;
+  border: none;
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.8rem;
+  margin-top: 1.5rem;
+}
+
+.hidden {
+  display: none;
+}
